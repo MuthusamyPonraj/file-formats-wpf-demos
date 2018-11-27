@@ -35,6 +35,9 @@
     <PlatformTarget>x86</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Syncfusion.Compression.Base">
+      <HintPath>packages\Syncfusion.Compression.Base.16.3.0.21\lib\net40\Syncfusion.Compression.Base.dll</HintPath>
+    </Reference>
     <Reference Include="Syncfusion.DocIO.Base">
       <HintPath>packages\Syncfusion.DocIO.Base.16.3.0.21\lib\net40\Syncfusion.DocIO.Base.dll</HintPath>
     </Reference>

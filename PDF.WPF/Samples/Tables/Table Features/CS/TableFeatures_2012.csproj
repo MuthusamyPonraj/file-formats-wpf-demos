@@ -38,6 +38,9 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Syncfusion.Compression.Base">
+      <HintPath>packages\Syncfusion.Compression.Base.16.3.0.21\lib\net45\Syncfusion.Compression.Base.dll</HintPath>
+    </Reference>
     <Reference Include="Syncfusion.Shared.Wpf">
       <HintPath>packages\Syncfusion.Shared.Wpf.16.3.0.21\lib\net45\Syncfusion.Shared.Wpf.dll</HintPath>
     </Reference>
